@@ -6,7 +6,7 @@
 
 #### Installation:
 
-#### Demo: http://cdn.rawgit.com/daniellescheele.github.io/calculator
+#### Demo: http://daniellescheele.github.io/calculator
 
 #### License: none
 
